@@ -1,7 +1,7 @@
 ### Hi there 👋, My name is Ali kareem
 I am Ali from Iraq, and I own content in programming. I really enjoy learning languages like C# and ASP CORE, as well as PYTHON and C++. I also enjoy working as a malware analyst and security researcher
 
-Skills: C# ,ASP CORE , Python,   C++ 
+Skills: C# ,ASP CORE , Python,   C++ , Assembly
 
 
 
